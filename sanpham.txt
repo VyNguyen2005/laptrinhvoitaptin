@@ -1,0 +1,3 @@
+A11;Hoa Hong;20000.0
+A12;Hoa Hue;12000.0
+A123;Hoa Dao;3000.0
